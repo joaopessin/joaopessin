@@ -3,8 +3,6 @@
 
 ### :fire: Systems Development student
 
-<br/>
-
 <div>
   <a href="https://github.com/joaopessin/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopessin&layout=compact&langs_count=7&theme=dracula"/>
