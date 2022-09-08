@@ -22,5 +22,4 @@
 
 <br/>
 
-![Snake animation](https://github.com/seu-usuário-aqui/joaopessin/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/joaopessin/joaopessin/blob/output/github-contribution-grid-snake.svg)
