@@ -3,13 +3,9 @@
 
 ### :fire: Systems Development student
 
-<div>
-  <a href="https://github.com/joaopessin/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopessin&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopessin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<br/>
+ - 🔭 I'm currently working IT support as an intern
+ - 🌱 I’m currently learning about Java
+ - 💬 Ask me about HTML, CSS, JS and Java
 
 ### :speech_balloon: Contacts
 
