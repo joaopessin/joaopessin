@@ -4,8 +4,8 @@
 ### :fire: Systems Development student
 
  - 🔭 I'm currently working IT support as an intern
- - 🌱 I’m currently learning about Java
- - 💬 Ask me about HTML, CSS, JS and Java
+ - 🌱 I’m currently learning about Java and MySQL
+ - 💬 Ask me about Java, MySQL, HTML and CSS
 
 ### :speech_balloon: Contacts
 
