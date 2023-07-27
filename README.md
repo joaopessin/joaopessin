@@ -11,7 +11,7 @@
 - Interface e Experiência do Usuário (UX/UI)
 - Metodologias Ágeis
 - Eletrônica Básica
-- Sistema Operacional (Ubuntu, Debian e Windows)
+- Sistema Operacional (Básico: Ubuntu e Debian | Intermediário / Avançado: Windows)
 
 📚 Aprendendo sobre:
 - HTML
