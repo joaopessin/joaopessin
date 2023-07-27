@@ -1,15 +1,38 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pessin</h1>
+# Bem-vindo ao meu GitHub! 👋
 
+## Sobre mim
 
-### :fire: Systems Development student
+🎓 Último módulo do curso de Desenvolvimento de Sistemas do SENAI.
 
- - 🔭 I'm currently working IT support as an intern
- - 🌱 I’m currently learning about Java and MySQL
- - 💬 Ask me about Java, MySQL, HTML and CSS
+💻 Conhecimentos em:
+- Lógica de Programação
+- Java (POO | CRUD)
+- Banco de Dados (MySQL)
+- Interface e Experiência do Usuário (UX/UI)
+- Metodologias Ágeis
+- Eletrônica Básica
+- Sistema Operacional (Ubuntu, Debian e Windows)
 
-### :speech_balloon: Contacts
+📚 Aprendendo sobre:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- IoT (Internet das Coisas)
 
-<div>
-  <a href = "mailto:jv.pessin20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopessin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## Próximos passos
+
+🚀 Em breve, estarei:
+- Fazendo curso de inglês (considerando o meu básico/intermediário)
+- Entrando no ensino superior para seguir a trilha da programação e tecnologia
+- Continuando a estudar programação e abraçando novos desafios
+
+## Vamos construir coisas incríveis juntos! 🌟🚀
+
+Sinta-se à vontade para explorar meus repositórios, deixar sugestões ou até mesmo entrar em contato para bater um papo sobre tecnologia. Estou sempre aberto a novas parcerias e oportunidades!
+
+📧 E-mail: jv.pessin20@gmail.com
+
+📱 LinkedIn: https://www.linkedin.com/in/joaopessin/
+
+**"O aumento do conhecimento é como uma esfera dilatando-se no espaço: quanto maior a nossa compreensão, maior o nosso contato com o desconhecido."** 🌌🧠
