@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-🎓 Último módulo do curso de Desenvolvimento de Sistemas do SENAI.
+🎓 Último módulo do curso técnico de Desenvolvimento de Sistemas do SENAI.
 
 💻 Conhecimentos em:
 - Lógica de Programação
