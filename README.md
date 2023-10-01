@@ -12,18 +12,18 @@
 - Metodologias Ágeis
 - Eletrônica Básica
 - Sistema Operacional (Básico: Ubuntu e Debian | Intermediário / Avançado: Windows)
+- IoT (Internet das Coisas)
 
 📚 Aprendendo sobre:
 - HTML
 - CSS
 - JavaScript
 - PHP
-- IoT (Internet das Coisas)
 
 ## Próximos passos
 
 🚀 Em breve, estarei:
-- Fazendo curso de inglês (considerando o meu básico/intermediário)
+- Fazendo curso de inglês (considerando o meu atual básico/intermediário)
 - Entrando no ensino superior para seguir a trilha da programação e tecnologia
 - Continuando a estudar programação e abraçando novos desafios
 
