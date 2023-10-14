@@ -17,7 +17,6 @@
 📚 Aprendendo sobre:
 - HTML
 - CSS
-- JavaScript
 - PHP
 
 ## Próximos passos
