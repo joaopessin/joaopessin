@@ -12,6 +12,7 @@
 - Lógica de Programação
 - Java | PHP (POO | CRUD)
 - Banco de Dados (MySQL)
+- HTML | CSS
 - Bootstrap
 - Eletrônica Básica
 - Sistema Operacional (Básico: Ubuntu e Debian | Intermediário / Avançado: Windows)
