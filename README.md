@@ -5,19 +5,17 @@
 🎓 Último módulo do curso técnico de Desenvolvimento de Sistemas do SENAI.
 
 💻 Conhecimentos em:
-- Lógica de Programação
-- Java (POO | CRUD)
-- Banco de Dados (MySQL)
+- Metodologias ágeis (SCRUM)
+- Análise de requisitos
+- Teste de sistemas
 - Git
-- Metodologias Ágeis
+- Lógica de Programação
+- Java | PHP (POO | CRUD)
+- Banco de Dados (MySQL)
+- Bootstrap
 - Eletrônica Básica
 - Sistema Operacional (Básico: Ubuntu e Debian | Intermediário / Avançado: Windows)
-- IoT (Internet das Coisas)
-
-📚 Aprendendo sobre:
-- HTML
-- CSS
-- PHP
+- IoT (Arduino)
 
 ## Próximos passos
 
